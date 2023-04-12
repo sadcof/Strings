@@ -1,0 +1,8 @@
+D:\C#\Junior\Strings\Strings\bin\Debug\Strings.exe.config
+D:\C#\Junior\Strings\Strings\bin\Debug\Strings.exe
+D:\C#\Junior\Strings\Strings\bin\Debug\Strings.pdb
+D:\C#\Junior\Strings\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+D:\C#\Junior\Strings\Strings\obj\Debug\Strings.csproj.SuggestedBindingRedirects.cache
+D:\C#\Junior\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+D:\C#\Junior\Strings\Strings\obj\Debug\Strings.exe
+D:\C#\Junior\Strings\Strings\obj\Debug\Strings.pdb
