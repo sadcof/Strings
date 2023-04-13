@@ -27,7 +27,7 @@ namespace Strings
             Console.WriteLine("Введите должность");
             string post = Console.ReadLine();
 
-            Console.WriteLine($"Вас зовут {name}{surname}, вы любите кушать {dish}, " +
+            Console.WriteLine($"Вас зовут {name} {surname}, вы любите кушать {dish}, " +
                 $"любите людей с цветом волос {hairColor}, а работаете на должности {post}");
             Console.ReadKey();
         } 
