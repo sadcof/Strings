@@ -22,13 +22,13 @@ namespace Strings
             string dish = Console.ReadLine();
 
             Console.WriteLine("Введите любимый цвет волос");
-            string hair = Console.ReadLine();
+            string hairColor = Console.ReadLine();
 
             Console.WriteLine("Введите должность");
             string post = Console.ReadLine();
 
-            Console.WriteLine($"Вас зовут {name} {surname}, вы любите кушать {dish}, любите людей с цветом волос {hair}," +
-                $" а работаете на должности {post}");
+            Console.WriteLine($"Вас зовут {name}{surname}, вы любите кушать {dish}, " +
+                $"любите людей с цветом волос {hairColor}, а работаете на должности {post}");
             Console.ReadKey();
         }
 
